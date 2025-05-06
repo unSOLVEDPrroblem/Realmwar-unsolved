@@ -41,7 +41,6 @@ public abstract class Structures {
     public abstract void displayInfo();
 }
 
-// زیرکلاس ها
 
 class TownHall extends Structures {
 
